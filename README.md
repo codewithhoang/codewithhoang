@@ -1,6 +1,6 @@
 <div>
   <h1 style="font-size: medium;">ASCII Donut Animation</h1>
-  <p>Made by ASMR PROG</p>
+  <p>HELLO EVERYONE, THIS IS MY PROFILE. 👦</p>
 
 </div>
 
